@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adhyayan 👋
 
-<!--
-**AdhyayanG/AdhyayanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Computer Engineering student passionate about technology and continuous learning.
 
-Here are some ideas to get you started:
+Currently building a strong foundation in computer science while exploring the fields of Artificial Intelligence and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- C Programming
+- Python
+- Git & GitHub
+- Linux
+
+## 🚀 Interested In
+
+- Artificial Intelligence
+- Cybersecurity
+- Software Engineering
+- Open Source
+
+## 📌 About This GitHub
+
+This is where I document my learning journey, build projects, and experiment with new technologies.
+
