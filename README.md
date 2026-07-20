@@ -1,8 +1,12 @@
 # Hi, I'm Adhyayan 👋
 
-I'm a first-year Computer Engineering student passionate about technology and continuous learning.
+Hi, I'm Adhyayan 👋
 
-Currently building a strong foundation in computer science while exploring the fields of Artificial Intelligence and Cybersecurity.
+I'm a first-year Computer Science student with a growing interest in Artificial Intelligence and Cybersecurity.
+
+Currently, I'm building a strong foundation in Computer Science through programming, Linux, networking, and hands-on projects while documenting everything I learn.
+
+My long-term goal is to contribute to AI-powered cybersecurity research and build tools that solve real-world problems.
 
 ## 🌱 Currently Learning
 
